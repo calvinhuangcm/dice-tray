@@ -1,0 +1,20 @@
+# Gradle and Android build output
+.gradle/
+**/build/
+local.properties
+
+# IDE metadata
+.idea/
+*.iml
+.externalNativeBuild/
+.cxx/
+
+# macOS and local tooling
+.DS_Store
+captures/
+*.log
+
+# Local screenshots and profiling output
+*.hprof
+perf-data/
+

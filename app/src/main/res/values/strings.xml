@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">骰子盤</string>
+    <string name="result_ready">準備擲骰</string>
+    <string name="result_expression">%1$s = %2$d</string>
+    <string name="roll">擲骰</string>
+    <string name="clear">清除</string>
+    <string name="settings_title">擲骰設定</string>
+    <string name="how_many">骰子數量</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d 顆</item>
+        <item quantity="other">%1$d 顆</item>
+    </plurals>
+    <string name="dice_type">骰子類型</string>
+    <string name="dice_color">骰子顏色</string>
+    <string name="sound">聲音</string>
+    <string name="vibration">震動</string>
+    <string name="motion_trails">動態軌跡</string>
+    <string name="phone_tilt">手機傾斜／搖動</string>
+    <string name="motion_sensitivity">傾斜／搖動靈敏度</string>
+    <string name="motion_sensitivity_soft">柔和</string>
+    <string name="motion_sensitivity_value">%1$.1fx</string>
+    <string name="motion_sensitivity_hint">範圍 0.5x～3.0x；2.2x 是目前預設，向右提高反應速度與碰撞力度。</string>
+    <string name="result_chip">顯示結果卡</string>
+    <string name="tips">使用提示</string>
+    <string name="tip_roll">點擊骰盤或「擲骰」開始；六面骰以點數顯示。</string>
+    <string name="tip_tilt">開啟後，骰子會依手機傾斜往低處滑動；搖動手機時會持續依加速度碰撞、翻滾，停止後自然停下。</string>
+    <string name="tip_future">混合骰組與更多外觀會沿用同一個渲染介面擴充。</string>
+    <string name="language">語言</string>
+    <string name="language_system">跟隨系統</string>
+    <string name="language_zh_tw">繁體中文</string>
+    <string name="language_zh_cn">簡體中文</string>
+    <string name="language_zh_hk">繁體中文（香港）</string>
+    <string name="language_en">English</string>
+    <string name="language_ja">日本語</string>
+    <string name="language_note">目前語言：%1$s；可跟隨系統或手動指定</string>
+    <string name="language_hint">選擇後會立即套用；選擇「跟隨系統」可恢復系統語言。</string>
+    <string name="close">關閉</string>
+    <string name="renderer_loading">3D 場景載入中</string>
+    <string name="renderer_unavailable">3D 場景暫時無法載入，仍可查看擲骰結果</string>
+    <string name="renderer_retry">重新載入 3D 場景</string>
+    <string name="rolling">擲骰中…</string>
+    <string name="color_ivory">象牙白</string>
+    <string name="color_green">森林綠</string>
+    <string name="color_red">暖紅</string>
+    <string name="color_blue">深藍</string>
+    <string name="color_purple">紫羅蘭</string>
+    <string name="color_black">曜石黑</string>
+    <string name="dice_d4">d4 — 四面</string>
+    <string name="dice_d6">d6 — 六面</string>
+    <string name="dice_d8">d8 — 八面</string>
+    <string name="dice_d10">d10 — 十面</string>
+    <string name="dice_d12">d12 — 十二面</string>
+    <string name="dice_d20">d20 — 二十面</string>
+    <string name="count_decrease">減少骰子數量</string>
+    <string name="count_increase">增加骰子數量</string>
+    <string name="open_settings">開啟設定</string>
+    <string name="selected_color">已選取 %1$s</string>
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dice Tray</string>
+    <string name="result_ready">Ready to roll</string>
+    <string name="result_expression">%1$s = %2$d</string>
+    <string name="roll">Roll</string>
+    <string name="clear">Clear</string>
+    <string name="settings_title">Dice settings</string>
+    <string name="how_many">Number of dice</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d die</item>
+        <item quantity="other">%1$d dice</item>
+    </plurals>
+    <string name="dice_type">Dice type</string>
+    <string name="dice_color">Dice color</string>
+    <string name="sound">Sound</string>
+    <string name="vibration">Vibration</string>
+    <string name="motion_trails">Motion trails</string>
+    <string name="phone_tilt">Phone tilt / shake</string>
+    <string name="motion_sensitivity">Tilt / shake sensitivity</string>
+    <string name="motion_sensitivity_soft">Soft</string>
+    <string name="motion_sensitivity_value">%1$.1fx</string>
+    <string name="motion_sensitivity_hint">Range 0.5x–3.0x; 2.2x is the current default. Move right for faster response and stronger collisions.</string>
+    <string name="result_chip">Show result card</string>
+    <string name="tips">Tips</string>
+    <string name="tip_roll">Tap the tray or “Roll” to start; six-sided dice use pips.</string>
+    <string name="tip_tilt">When enabled, dice slide toward the lower side of the phone; shaking keeps them colliding and tumbling with acceleration, then they settle naturally when motion stops.</string>
+    <string name="tip_future">Mixed dice sets and more appearances can extend through the same rendering interface.</string>
+    <string name="language">Language</string>
+    <string name="language_system">Follow system</string>
+    <string name="language_zh_tw">繁體中文</string>
+    <string name="language_zh_cn">简体中文</string>
+    <string name="language_zh_hk">繁體中文（香港）</string>
+    <string name="language_en">English</string>
+    <string name="language_ja">日本語</string>
+    <string name="language_note">Current language: %1$s; follow the system or choose manually</string>
+    <string name="language_hint">Changes apply immediately. Choose “Follow system” to return to the device language.</string>
+    <string name="close">Close</string>
+    <string name="renderer_loading">Loading 3D scene</string>
+    <string name="renderer_unavailable">The 3D scene is temporarily unavailable, but you can still view roll results.</string>
+    <string name="renderer_retry">Reload 3D scene</string>
+    <string name="rolling">Rolling…</string>
+    <string name="color_ivory">Ivory</string>
+    <string name="color_green">Forest green</string>
+    <string name="color_red">Warm red</string>
+    <string name="color_blue">Deep blue</string>
+    <string name="color_purple">Violet</string>
+    <string name="color_black">Obsidian black</string>
+    <string name="dice_d4">d4 — four-sided</string>
+    <string name="dice_d6">d6 — six-sided</string>
+    <string name="dice_d8">d8 — eight-sided</string>
+    <string name="dice_d10">d10 — ten-sided</string>
+    <string name="dice_d12">d12 — twelve-sided</string>
+    <string name="dice_d20">d20 — twenty-sided</string>
+    <string name="count_decrease">Decrease dice count</string>
+    <string name="count_increase">Increase dice count</string>
+    <string name="open_settings">Open settings</string>
+    <string name="selected_color">Selected %1$s</string>
+</resources>

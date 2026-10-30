@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ダイス台</string>
+    <string name="result_ready">振る準備完了</string>
+    <string name="result_expression">%1$s = %2$d</string>
+    <string name="roll">振る</string>
+    <string name="clear">クリア</string>
+    <string name="settings_title">ダイス設定</string>
+    <string name="how_many">ダイスの数</string>
+    <plurals name="dice_count">
+        <item quantity="other">%1$d個</item>
+    </plurals>
+    <string name="dice_type">ダイスの種類</string>
+    <string name="dice_color">ダイスの色</string>
+    <string name="sound">サウンド</string>
+    <string name="vibration">バイブレーション</string>
+    <string name="motion_trails">モーション軌跡</string>
+    <string name="phone_tilt">スマホの傾き／振動</string>
+    <string name="motion_sensitivity">傾き／振動の感度</string>
+    <string name="motion_sensitivity_soft">穏やか</string>
+    <string name="motion_sensitivity_value">%1$.1fx</string>
+    <string name="motion_sensitivity_hint">範囲 0.5x～3.0x。2.2xが現在の初期値で、右に動かすほど反応速度と衝突の強さが上がります。</string>
+    <string name="result_chip">結果カードを表示</string>
+    <string name="tips">使い方</string>
+    <string name="tip_roll">ダイス台または「振る」をタップして開始。6面ダイスは目で表示します。</string>
+    <string name="tip_tilt">有効にすると、ダイスはスマホの低い側へ滑ります。振ると加速度に合わせて衝突・回転を続け、動きが止まると自然に静止します。</string>
+    <string name="tip_future">混合ダイスセットや追加の外観は、同じレンダリングインターフェースで拡張できます。</string>
+    <string name="language">言語</string>
+    <string name="language_system">システムに従う</string>
+    <string name="language_zh_tw">繁体字中国語（台湾）</string>
+    <string name="language_zh_cn">簡体字中国語</string>
+    <string name="language_zh_hk">繁体字中国語（香港）</string>
+    <string name="language_en">English</string>
+    <string name="language_ja">日本語</string>
+    <string name="language_note">現在の言語：%1$s。システムに従うか手動で選択できます</string>
+    <string name="language_hint">選択するとすぐに適用されます。「システムに従う」で端末の言語に戻せます。</string>
+    <string name="close">閉じる</string>
+    <string name="renderer_loading">3Dシーンを読み込み中</string>
+    <string name="renderer_unavailable">3Dシーンを一時的に読み込めません。結果は確認できます。</string>
+    <string name="renderer_retry">3Dシーンを再読み込み</string>
+    <string name="rolling">振っています…</string>
+    <string name="color_ivory">アイボリー</string>
+    <string name="color_green">フォレストグリーン</string>
+    <string name="color_red">ウォームレッド</string>
+    <string name="color_blue">ディープブルー</string>
+    <string name="color_purple">バイオレット</string>
+    <string name="color_black">オブシディアンブラック</string>
+    <string name="dice_d4">d4 — 4面</string>
+    <string name="dice_d6">d6 — 6面</string>
+    <string name="dice_d8">d8 — 8面</string>
+    <string name="dice_d10">d10 — 10面</string>
+    <string name="dice_d12">d12 — 12面</string>
+    <string name="dice_d20">d20 — 20面</string>
+    <string name="count_decrease">ダイスの数を減らす</string>
+    <string name="count_increase">ダイスの数を増やす</string>
+    <string name="open_settings">設定を開く</string>
+    <string name="selected_color">%1$sを選択中</string>
+</resources>
